@@ -3,8 +3,16 @@ alexandre
 21
 Lille
 ESGI
+<<<<<<< HEAD
 Absys Cyborg
 Verstioning GIT
 judo
 eau petillante
 19/05/2022
+=======
+ordinateur
+souris
+chargeur
+ecran
+clavier
+>>>>>>> dev
