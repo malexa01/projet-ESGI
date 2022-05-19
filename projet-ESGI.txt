@@ -7,3 +7,4 @@ ordinateur
 souris
 chargeur
 ecran
+clavier
