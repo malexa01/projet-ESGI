@@ -5,3 +5,5 @@ Lille
 ESGI
 ordinateur
 souris
+chargeur
+ecran
